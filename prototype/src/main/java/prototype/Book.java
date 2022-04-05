@@ -13,7 +13,7 @@ public class Book implements Prototype {
   }
 
   @Override
-  public Book copy() {
+  public Object copy() {
     Book copy = new Book(pages, name);
     return copy;
   }

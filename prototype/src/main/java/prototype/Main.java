@@ -8,6 +8,7 @@ public class Main {
 
     BookFactory factory = new BookFactory(book);
     Book bookClone = factory.cloneBook();
+
     System.out.println(bookClone);
   }
 }

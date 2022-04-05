@@ -12,6 +12,6 @@ public class BookFactory {
   }
 
   Book cloneBook() {
-    return book.copy();
+    return (Book) book.copy();
   }
 }
