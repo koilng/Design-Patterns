@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/builder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/factory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/adapter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prototype" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton" isTestSource="false" />
     </content>
